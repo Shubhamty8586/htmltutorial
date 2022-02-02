@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<table width ="500px" border=1px>
+<tr>
+<th>Name</th>
+<th>Mass(10kg)</th>
+<th>Diameter(km)</th>
+<th>Density(kg/m)</th>
+<th>Gravity(m/s)</th>
+<th>Length of day(hours)</th>
+<th>Distance from Sun(10 km)</th>
+<th>Mean temperature(C)</th>
+<th>Number of Moons</th>
+<th>NOtes</th>
+</tr>
+<tr>
+<td>Second row,firstcell</td>
+<td>cell 2</td>
+<td>cell 3</td>
+<td>cell 4</td>
+</tr>
+</table>
+</body>
+</html>

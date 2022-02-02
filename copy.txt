@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<Title>Simple table</title>
+<head>
+</head>
+<body>
+<button
+<button>submit</button>
+</body>
+</html>
